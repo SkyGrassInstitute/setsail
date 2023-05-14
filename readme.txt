@@ -35,15 +35,23 @@ Fonts:
 Icons:
  - font awesome
 
-Stock Photos and Graphics:
+Photos and Graphics:
  - Black hole visualization image： ESA Advanced Concepts Team (Alexander Wittig, Jai Grover) under CC BY IGO license.
- - Gates: We obtained worldwide commercial licenses to download these images created by freepik, wuttana, and Majo Lemus respectively from the Freepik website."
+ - Gates: We obtained worldwide commercial licenses to download these images created by freepik, wuttana, and Majo Lemus respectively from the Freepik website.
 
 Javascript Files:
  - Swiper (https://swiperjs.com/)
  - MoveTo.js (https://github.com/hsnaydd/moveTo)
  - Prism.js (https://prismjs.com/)
  - Basic Lightbox (https://basiclightbox.electerious.com/)
+ 
+Music:
+ - Composer: Gwen KC
+ - Remix / Master: Gwen KC / LANDR Stuido 
+ - Publisher: Gwen KC via LANDR
+ - License: Skygrass Institute is granted authorization for virtual exhibition purposes, with strict restrictions on downloading, uploading to other platforms, and commercial usage by others.
+
+ 
 
 -------------------------------------------------------------------------------------------------------
 
